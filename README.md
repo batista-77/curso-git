@@ -4,7 +4,7 @@ Aqui nesse arquivo README teremos infoemacoes relativas ao nosso projeto
 
 
 
-# Subtitulo do README 
+## Subtitulo do README 
 
 - titulo 1: curso de git 
 - titulo 2: curos de HTML 
